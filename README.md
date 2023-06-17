@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning React Native and TypeScript.
 - 👯 I’m looking to collaborate on libraries and Drupal modules I maintain, particularly [Simple OAuth](https://drupal.org/project/simple_oauth).
 
-I burned out as a CTO, but enjoy the open-source community and learning new things. I dive, travel, and try to enjoy my life to the fullest.
+I enjoy the open-source community and learning new things. I dive, travel, and try to enjoy my life to the fullest.
